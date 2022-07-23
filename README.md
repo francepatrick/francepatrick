@@ -1,6 +1,6 @@
 <h1>buenos días! call me France 🇫🇷🇵🇭 </h1>
 
-Hi! I'm <i>France Patrick Lodonia</i>, a developer from Cebu City, Philippines. 👨🏻‍💻
+Hi! I'm <i>France Patrick Lodonia</i> from Cebu City, Philippines. 👨🏻‍💻
 
 
 <h6> My Technologies</h3>
