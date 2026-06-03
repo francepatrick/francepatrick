@@ -1,6 +1,6 @@
 ## 📫 Connect With Me
 
-🌐 Website: https://frncptrckldn.com
+🌐 Portfolio: https://frncptrckldn.com
 
 📧 Email: [dev@frncptrckldn.com](mailto:dev@frncptrckldn.com)
 
@@ -79,7 +79,5 @@ AI:
 ---
 
 ### Let's Connect
-
-🌐 https://frncptrckldn.com
 
 📧 [dev@frncptrckldn.com](mailto:dev@frncptrckldn.com)
